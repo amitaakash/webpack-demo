@@ -9,3 +9,5 @@ function component () {
 }
 
 document.body.appendChild(component());
+
+// command is npx webpack --config webpack.config.js
